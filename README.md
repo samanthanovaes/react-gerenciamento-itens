@@ -20,7 +20,7 @@ Este projeto é um cliente React que consome a API de gerenciamento de itens. El
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Prof-Karan-Luciano/react-gerenciamento-itens.git
+   git clone https://github.com/Desenvolvimento-WEB-I-2024-2-Ensi-Medio/react-gerenciamento-itens.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
